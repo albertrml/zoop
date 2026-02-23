@@ -102,23 +102,23 @@ os dados disponíveis se estendem até junho.
 O faturamento acumulado do período apresentou valores próximos aos anos
 anteriores:
 
--   **2023:** R\$ 42,6 milhões\
--   **2024:** R\$ 43,4 milhões\
--   **2025:** R\$ 41,8 milhões
+- **2023:** R$ 42,6 milhões
+- **2024:** R$ 43,4 milhões
+- **2025:** R$ 41,8 milhões
 
 A diferença entre o melhor e o pior desempenho (2024 vs. 2025) foi de
-aproximadamente **R\$ 1,6 milhão**.
+aproximadamente **R$ 1,6 milhão**.
 
 Apesar da proximidade no acumulado, a análise mensal revelou um ponto de
-atenção:\
+atenção:
 A partir do segundo trimestre de 2025 houve desaceleração significativa
 nas vendas, especialmente nos meses de maio e junho.
 
 No primeiro trimestre, o desempenho estava alinhado aos anos anteriores:
 
--   **2023:** R\$ 19,9 milhões\
--   **2024:** R\$ 19,8 milhões\
--   **2025:** R\$ 18,7 milhões
+- **2023:** R$ 19,9 milhões
+- **2024:** R$ 19,8 milhões
+- **2025:** R$ 18,7 milhões
 
 Isso sugere que a deterioração ocorreu mais intensamente no segundo
 trimestre.
@@ -130,9 +130,9 @@ trimestre.
 No canal Wholesale, observou-se redução relevante no faturamento
 acumulado:
 
--   **2023:** R\$ 15,9 milhões\
--   **2024:** R\$ 16,7 milhões\
--   **2025:** R\$ 14,8 milhões
+- **2023:** R$ 15,9 milhões
+- **2024:** R$ 16,7 milhões
+- **2025:** R$ 14,8 milhões
 
 A diferença aproximada de **R\$ 1,9 milhão** indica que este canal
 contribuiu significativamente para a queda geral.
@@ -144,23 +144,23 @@ contribuiu significativamente para a queda geral.
 As regiões **Midwest** e **South** apresentaram desempenho inferior em
 2025:
 
--   **2025:** R\$ 3,7 milhões\
--   **2023:** R\$ 4,6 milhões\
--   **2024:** R\$ 4,2 milhões
+- **2025:** R$ 3,7 milhões
+- **2023:** R$ 4,6 milhões
+- **2024:** R$ 4,2 milhões
 
 Além disso, a região **Southeast** apresentou forte queda no faturamento
 mensal em junho:
 
--   **2025:** R\$ 0,7 milhão\
--   **2023:** R\$ 1,5 milhão\
--   **2024:** R\$ 1,3 milhão
+- **2025:** R$ 0,7 milhão
+- **2023:** R$ 1,5 milhão
+- **2024:** R$ 1,3 milhão
 
 Ao comparar as taxas de crescimento mensal de 2025 vs. 2024 no canal
 Wholesale, três regiões apresentaram retração significativa:
 
--   Internacional\
--   Midwest\
--   Southeast
+- Internacional
+- Midwest
+- Southeast
 
 Nos meses de maio e junho, houve queda aproximada de **38% e 39%**,
 respectivamente.
@@ -177,15 +177,17 @@ oscilação sazonal.
 O ticket médio de 2025 no primeiro semestre foi o menor entre os três
 anos:
 
--   **2023:** R\$ 1,52 mil\
--   **2024:** R\$ 1,51 mil\
--   **2025:** R\$ 1,44 mil
+- **2023:** R$ 1,52 mil
+- **2024:** R$ 1,51 mil
+- **2025:** R$ 1,44 mil
 
 Em nível mensal, 2025 apresentou o menor ticket médio em quase todos os
 meses, exceto março.
 
-Isso indica possível: - Maior volume de vendas com desconto - Mudança no
-mix de produtos - Redução de preços médios
+Isso indica possível: 
+- Maior volume de vendas com desconto 
+- Mudança no mix de produtos 
+- Redução de preços médios
 
 ------------------------------------------------------------------------
 
@@ -193,9 +195,9 @@ mix de produtos - Redução de preços médios
 
 O churn em 2025 foi o mais elevado do período analisado:
 
--   **2023:** 0,54%\
--   **2024:** 0,62%\
--   **2025:** 0,79%
+- **2023:** 0,54%
+- **2024:** 0,62%
+- **2025:** 0,79%
 
 Embora o percentual seja baixo em termos absolutos, o aumento relativo
 pode ter contribuído para a redução da receita líquida.
@@ -206,16 +208,17 @@ pode ter contribuído para a redução da receita líquida.
 
 Os cinco principais clientes de 2025 foram:
 
-  Cliente   Receita (R\$ mil)   Participação
-  --------- ------------------- --------------
-  0439      300                 0,72%
-  0022      270                 0,64%
-  0223      260                 0,61%
-  0006      240                 0,57%
-  0023      230                 0,55%
+  
+| Cliente |   Receita (R$ mil) |  Participação |
+| ------- | ------------------ | ------------- |
+|  0439   |        300         |     0,72%     |
+|  0022   |        270         |     0,64%     |
+|  0223   |        260         |     0,61%     |
+|  0006   |        240         |     0,57%     |
+|  0023   |        230         |     0,55%     |
 
 A participação individual é relativamente baixa, indicando que a receita
-não está excessivamente concentrada em poucos clientes --- o que reduz
+não está excessivamente concentrada em poucos clientes, o que reduz
 risco estrutural.
 
 ------------------------------------------------------------------------
