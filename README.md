@@ -47,7 +47,7 @@ O relatório deve permitir:
 ## Estrutura do Projeto
 
 ```
-EcoFuelLog/
+ZoopMegastore/
 ├── Dados/
 │   ├── Brasil.xlsx
 │   └── Estados Unidos.xlsx
